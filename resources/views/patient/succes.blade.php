@@ -1,0 +1,1 @@
+<h1>Thank you, You are registered as a patient</h1>
